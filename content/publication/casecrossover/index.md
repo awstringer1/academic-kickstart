@@ -5,6 +5,7 @@ title: "Case-Crossover"
 authors: [Alex Stringer, Patrick Brown, Jamie Stafford]
 date: 2019-10-18T13:57:18-04:00
 doi: ""
+subtitle: "Submitted to Biometrics"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-10-18T13:57:18-04:00
@@ -67,7 +68,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [casecrossover-rpackage]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
