@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Case-Crossover R Package"
-summary: R package implementing methods in the case-crossover paper.
+title: "STA238 Supplementary Materials"
+summary: "I am co-developing a new math stats course which emphasizes computation as being the intellectual equal of mathematics."
 authors: [Alex Stringer]
 tags: []
 categories: []
 date: 2019-10-18T14:05:52-04:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/awstringer1/casecrossover"
+external_link: "https://awstringer1.github.io/sta238-book/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
