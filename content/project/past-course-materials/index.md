@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Supporting Computational Literacy in Statistics Courses"
-summary: "Materials focussed on data and computational literacy, for instructors to use in their statistics courses."
+title: "Past Course Materials"
+summary: "A repository of materials from past courses that I have taught."
 authors: [Alex Stringer]
-tags: []
+tags: [Teaching]
 categories: []
-date: 2019-10-18T14:06:10-04:00
+date: 2019-11-11T11:27:48-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://awstringer1.github.io/leaf2018/"
+external_link: "https://github.com/awstringer1/course-materials"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "TopLeft"
+  focal_point: ""
   preview_only: false
 
 # Custom links (optional).
